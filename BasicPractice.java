@@ -1,4 +1,4 @@
-public class condStatements {
+public class BasicPractice {
     // Practice Conditional Statements in java
 
     public static void main(String[] args){
