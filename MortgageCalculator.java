@@ -30,5 +30,6 @@ public class MortgageCalculator {
         NumberFormat payment = NumberFormat.getCurrencyInstance();
         String topay = payment.format(result);
         System.out.println("Total Mortgage is "+topay);
+
     }
 }
