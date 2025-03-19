@@ -11,7 +11,6 @@ public class CurrencyConverter {
                 break;
             }else{
                 System.out.println("Invalid input. Only Number value is allowed");
-                
             }                  
         }
 
